@@ -7,6 +7,10 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringMVCFormApp</name>
 	<url>http://maven.apache.org</url>
+	<properties>
+		<sonar.organization>thushankavishka</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
